@@ -7,4 +7,4 @@ This sample project gives some guidance, but every migration project should be
 considered case-by-case.
 
 This sample project is licensed under GPLv3. See Apache 2.0 licensed version 
-from another branch under this same repository.
+at https://github.com/johannesh2/company-dashboard-migration-apache2.
