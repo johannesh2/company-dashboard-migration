@@ -36,7 +36,7 @@
   <collapse-property name="user.agent" values="ie*" />
  -->
  
-  <set-configuration-property name="CssResource.conversionMode"    value="strict" />
+  <set-configuration-property name="CssResource.conversionMode" value="strict" />
    
 
     <inherits name="com.vaadin.DefaultWidgetSet" />
